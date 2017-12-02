@@ -5,4 +5,4 @@ pytorch implementation of VQ-VAE by Aaron Van Der Oord
 ```
 python main.py -n=1
 ```
-## Credits to (Aaron et.al )[https://avdnoord.github.io/homepage/vqvae/]
+## Credits to [Aaron et.al](https://avdnoord.github.io/homepage/vqvae/) 
